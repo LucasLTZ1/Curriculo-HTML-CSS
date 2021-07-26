@@ -1,2 +1,2 @@
 # Curriculo HTML CSS
- Projeto de Curriculo Utilizando HTML e CSS
+ Projeto de curriculo utilizando HTML e CSS
